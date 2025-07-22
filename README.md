@@ -1,4 +1,4 @@
-# Sintax-PUG
+# TicketPass
 
 Un boilerplate modular para desarrollo front-end con PUG/JADE, enfocado en la creación de sitios web estáticos pre-compilados.
 
